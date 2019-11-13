@@ -9,7 +9,7 @@ gem 'rspec', '~> 3.4'
 
 gem 'rubocop', '~> 0.37'
 gem 'reek', '~> 3.10'
-gem 'mdl', '~> 0.2'
+gem 'mdl', '>= 0.2'
 
 gem 'yard', '~> 0.8'
 
